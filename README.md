@@ -7,3 +7,12 @@ MaskedFace-Net is a dataset of human faces with a correctly or incorrectly worn 
 
 # -Licenses
 The licenses of MaskedFace-Net dataset: The dataset is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license by NVIDIA Corporation. You can use, redistribute, and adapt it for non-commercial purposes.
+
+# -Dataset
+MaskedFace-Net is available below:
+
+links on Google Drive.
+
+67,049 images with Correctly Masked Face Dataset (CMFD) at 1024×1024: https://drive.google.com/file/d/1Rkj3aFj0vhv81TZKShAfQlvyjarel7_B/view?usp=sharing  
+
+66,734 images with Incorrectly Masked Face Dataset (IMFD) at 1024×1024: https://drive.google.com/file/d/1Tkf4ilAAK1RXRo2jJVEMoSGoM3EC81WN/view?usp=sharing  
